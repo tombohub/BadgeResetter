@@ -1,6 +1,6 @@
 # BadgeResetter
 
-Small Windows app to reset Reddit badges all in once
+Small Windows app to reset Reddit badges of r/stopsmoking and r/stopdrinking 
 
 Code is 10 years old. 
 
